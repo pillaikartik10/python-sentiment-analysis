@@ -6,8 +6,8 @@ Here, sentiment analysis is performed on reviews scraped from Candy Crush's Goog
   
 ### Dependencies and Prerequisites  
   
-Selenium and textblob python libraries;  
-chromedriver.exe (any other browser driver will work with slight modification to the code)  
+[Selenium](https://pypi.org/project/selenium/) and [textblob](https://textblob.readthedocs.io/en/dev/) python libraries;  
+[chromedriver.exe](https://chromedriver.chromium.org/downloads) (any other browser driver will work with slight modification to the code)  
   
 ### How It Works?  
   
